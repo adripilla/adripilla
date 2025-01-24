@@ -7,7 +7,7 @@ I enjoy working on diverse projects that challenge my skills and allow me to lea
 
 Habilidades: Java / JavaScript / C++ / Objective-C / C#.NET / SQL / Swift / Vue.js / React / HTML / CSS
 
-- 🌱 Estoy aprendiendo Astro 
+- 🌱 Estoy aprendiendo NESTJS 
 - 📫 Cómo contactarme: adripilla10322@gmail.com 
 
 
